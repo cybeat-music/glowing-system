@@ -1,0 +1,292 @@
+X Lossless Decoder version 20240511 (157.1)
+
+XLD extraction logfile from 2024-10-22 22:12:29 +0900
+
+ずっと真夜中でいいのに。 / 虚仮の一念海馬に託す [初回限定盤]
+
+Used drive : HL-DT-ST BD-RE  BH16NS60 (revision 1.02)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:05:74 |         0    |    22948   
+        2  | 05:05:74 | 04:54:28 |     22949    |    45026   
+        3  | 10:00:27 | 07:10:68 |     45027    |    77344   
+        4  | 17:11:20 | 05:58:65 |     77345    |   104259   
+        5  | 23:10:10 | 05:38:24 |    104260    |   129633   
+        6  | 28:48:34 | 02:24:71 |    129634    |   140504   
+        7  | 31:13:30 | 05:14:23 |    140505    |   164077   
+        8  | 36:27:53 | 05:00:20 |    164078    |   186597   
+        9  | 41:27:73 | 05:04:05 |    186598    |   209402   
+       10  | 46:32:03 | 05:13:47 |    209403    |   232924   
+       11  | 51:45:50 | 05:03:55 |    232925    |   255704   
+       12  | 56:49:30 | 05:41:65 |    255705    |   281344   
+       13  | 62:31:20 | 05:42:35 |    281345    |   307029   
+       14  | 68:13:55 | 06:55:60 |    307030    |   338214   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain               : -9.09 dB
+    Peak                     : 0.987152
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/01 グラスとラムレーズン.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -6.59 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : C491437C
+    CRC32 hash               : C491437C
+    CRC32 hash (skip zero)   : 7EF203D9
+    AccurateRip v1 signature : 374C1A7A
+    AccurateRip v2 signature : 8EF41626
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/02 ハゼ馳せる果てるまで.flac
+
+    Track gain               : -9.29 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : 91C6B0E9
+    CRC32 hash               : 91C6B0E9
+    CRC32 hash (skip zero)   : 94D8DD67
+    AccurateRip v1 signature : 727FC148
+    AccurateRip v2 signature : 5EE034D5
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/03 お勉強しといてよ.flac
+
+    Track gain               : -9.09 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : AB57DBD9
+    CRC32 hash               : AB57DBD9
+    CRC32 hash (skip zero)   : DC964C95
+    AccurateRip v1 signature : ABF772AE
+    AccurateRip v2 signature : 3FB948B5
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/04 Ham.flac
+
+    Track gain               : -5.99 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : 6F8A26AD
+    CRC32 hash               : 6F8A26AD
+    CRC32 hash (skip zero)   : 2DECAF54
+    AccurateRip v1 signature : 7E9BFFA7
+    AccurateRip v2 signature : 8B977251
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/05 マリンブルーの庭園.flac
+
+    Track gain               : -7.82 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : 24D379A7
+    CRC32 hash               : 24D379A7
+    CRC32 hash (skip zero)   : C3C96304
+    AccurateRip v1 signature : E97055DA
+    AccurateRip v2 signature : 3B091C8B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/06 君の知らない物語 (1cho).flac
+
+    Track gain               : -10.01 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : EBA5FDA1
+    CRC32 hash               : EBA5FDA1
+    CRC32 hash (skip zero)   : D9319374
+    AccurateRip v1 signature : BC1A80E1
+    AccurateRip v2 signature : B141E081
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/07 フロントメモリー (short ver.).flac
+
+    Track gain               : -10.27 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : 93BD4153
+    CRC32 hash               : 93BD4153
+    CRC32 hash (skip zero)   : 2BD5CE7D
+    AccurateRip v1 signature : 6E049BF5
+    AccurateRip v2 signature : 8ECE0B9D
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/08 優しくLAST SMILE.flac
+
+    Track gain               : -5.36 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : 8265DA8A
+    CRC32 hash               : 8265DA8A
+    CRC32 hash (skip zero)   : 58F750F8
+    AccurateRip v1 signature : 41CF6E45
+    AccurateRip v2 signature : 5FEDC052
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/09 不法侵入.flac
+
+    Track gain               : -9.06 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : 105DD0B4
+    CRC32 hash               : 105DD0B4
+    CRC32 hash (skip zero)   : 0326AFF9
+    AccurateRip v1 signature : 63218A1D
+    AccurateRip v2 signature : 4E4330FD
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/10 サターン.flac
+
+    Track gain               : -7.77 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : 8468187D
+    CRC32 hash               : 8468187D
+    CRC32 hash (skip zero)   : 05A06F68
+    AccurateRip v1 signature : 91625449
+    AccurateRip v2 signature : 6AD52559
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/11 秒針を噛む.flac
+
+    Track gain               : -9.79 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : 5E315A49
+    CRC32 hash               : 5E315A49
+    CRC32 hash (skip zero)   : 2DD53C6E
+    AccurateRip v1 signature : E22D0D32
+    AccurateRip v2 signature : 9F325AD3
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/12 またね幻.flac
+
+    Track gain               : -9.34 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : E16E9175
+    CRC32 hash               : E16E9175
+    CRC32 hash (skip zero)   : 8133F835
+    AccurateRip v1 signature : D53E4186
+    AccurateRip v2 signature : 68708D8F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/13 残機.flac
+
+    Track gain               : -10.71 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : F5B80988
+    CRC32 hash               : F5B80988
+    CRC32 hash (skip zero)   : 6CE3856F
+    AccurateRip v1 signature : 56349A53
+    AccurateRip v2 signature : 280406A8
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 2 - CD/14 脳裏上のクラッカー.flac
+
+    Track gain               : -10.84 dB
+    Peak                     : 0.987152
+    CRC32 hash (test run)    : 915A43C9
+    CRC32 hash               : 915A43C9
+    CRC32 hash (skip zero)   : 3B2F34AE
+    AccurateRip v1 signature : 2984A771
+    AccurateRip v2 signature : 2BDF6CE2
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+GbUFjMncL9bQ7yx3MSdVdVwccgxK82zyr8DYJoFaT.5fV0IcwoW_jn3B6G7wWniVZGPwt1r990sOpVnXDjilQL2ZJ.aRnfsPWTTOUum
+-----END XLD SIGNATURE-----

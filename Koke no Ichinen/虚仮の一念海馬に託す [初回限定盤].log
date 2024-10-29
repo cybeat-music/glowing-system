@@ -1,0 +1,256 @@
+X Lossless Decoder version 20240511 (157.1)
+
+XLD extraction logfile from 2024-10-22 22:00:52 +0900
+
+ずっと真夜中でいいのに。 / 虚仮の一念海馬に託す [初回限定盤]
+
+Used drive : HL-DT-ST BD-RE  BH16NS60 (revision 1.02)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:18:59 |         0    |    19408   
+        2  | 04:18:59 | 03:46:02 |     19409    |    36360   
+        3  | 08:04:61 | 03:55:35 |     36361    |    54020   
+        4  | 12:00:21 | 03:09:45 |     54021    |    68240   
+        5  | 15:09:66 | 04:18:60 |     68241    |    87650   
+        6  | 19:28:51 | 03:39:18 |     87651    |   104093   
+        7  | 23:07:69 | 04:18:62 |    104094    |   123505   
+        8  | 27:26:56 | 03:46:03 |    123506    |   140458   
+        9  | 31:12:59 | 03:55:35 |    140459    |   158118   
+       10  | 35:08:19 | 03:09:40 |    158119    |   172333   
+       11  | 38:17:59 | 04:17:65 |    172334    |   191673   
+       12  | 42:35:49 | 03:39:18 |    191674    |   208116   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain               : -10.15 dB
+    Peak                     : 0.999969
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 1 - CD/01 虚仮にしてくれ.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -9.90 dB
+    Peak                     : 0.981995
+    CRC32 hash (test run)    : 05947927
+    CRC32 hash               : 05947927
+    CRC32 hash (skip zero)   : DF742A56
+    AccurateRip v1 signature : FCB13F14
+    AccurateRip v2 signature : 955FB3AF
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 1 - CD/02 TAIDADA.flac
+
+    Track gain               : -11.70 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : 15C9FF7D
+    CRC32 hash               : 15C9FF7D
+    CRC32 hash (skip zero)   : 821725BF
+    AccurateRip v1 signature : A6D13567
+    AccurateRip v2 signature : F6391DE4
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 1 - CD/03 クズリ念.flac
+
+    Track gain               : -10.09 dB
+    Peak                     : 0.998962
+    CRC32 hash (test run)    : B5AB1DA5
+    CRC32 hash               : B5AB1DA5
+    CRC32 hash (skip zero)   : 46AC0A44
+    AccurateRip v1 signature : 6AEEFE6B
+    AccurateRip v2 signature : 0F468501
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 1 - CD/04 海馬成長痛.flac
+
+    Track gain               : -11.82 dB
+    Peak                     : 0.997314
+    CRC32 hash (test run)    : 9E9BFD09
+    CRC32 hash               : 9E9BFD09
+    CRC32 hash (skip zero)   : EBA839DB
+    AccurateRip v1 signature : 9437801D
+    AccurateRip v2 signature : EA0CE432
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 1 - CD/05 嘘じゃない.flac
+
+    Track gain               : -11.27 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : 53604280
+    CRC32 hash               : 53604280
+    CRC32 hash (skip zero)   : 051E5C13
+    AccurateRip v1 signature : 616CE25B
+    AccurateRip v2 signature : C6C31CCC
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 1 - CD/06 Blues in the Closet.flac
+
+    Track gain               : -9.62 dB
+    Peak                     : 0.996704
+    CRC32 hash (test run)    : 54B1D8E4
+    CRC32 hash               : 54B1D8E4
+    CRC32 hash (skip zero)   : 9B34AFC8
+    AccurateRip v1 signature : B6029617
+    AccurateRip v2 signature : E7F98963
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 1 - CD/07 虚仮にしてくれ (Instrumental).flac
+
+    Track gain               : -8.27 dB
+    Peak                     : 0.975647
+    CRC32 hash (test run)    : C4B6558B
+    CRC32 hash               : C4B6558B
+    CRC32 hash (skip zero)   : 6C3921E9
+    AccurateRip v1 signature : DCC5A70B
+    AccurateRip v2 signature : A7F631E4
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 1 - CD/08 TAIDADA (Instrumental).flac
+
+    Track gain               : -9.93 dB
+    Peak                     : 0.990906
+    CRC32 hash (test run)    : E8B91F20
+    CRC32 hash               : E8B91F20
+    CRC32 hash (skip zero)   : 7C4DECD7
+    AccurateRip v1 signature : 292231E1
+    AccurateRip v2 signature : E0A2C0C9
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 1 - CD/09 クズリ念 (Instrumental).flac
+
+    Track gain               : -8.18 dB
+    Peak                     : 0.988007
+    CRC32 hash (test run)    : BE48FD60
+    CRC32 hash               : BE48FD60
+    CRC32 hash (skip zero)   : E7AFE3DA
+    AccurateRip v1 signature : 4A678F27
+    AccurateRip v2 signature : B40B9DD8
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 1 - CD/10 海馬成長痛 (Instrumental).flac
+
+    Track gain               : -10.97 dB
+    Peak                     : 0.991058
+    CRC32 hash (test run)    : B91799B9
+    CRC32 hash               : B91799B9
+    CRC32 hash (skip zero)   : 521339FC
+    AccurateRip v1 signature : E9AE30CB
+    AccurateRip v2 signature : ED1CA8DD
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 1 - CD/11 嘘じゃない (Instrumental).flac
+
+    Track gain               : -9.82 dB
+    Peak                     : 0.982452
+    CRC32 hash (test run)    : B78A9C8A
+    CRC32 hash               : B78A9C8A
+    CRC32 hash (skip zero)   : 99D0751B
+    AccurateRip v1 signature : 046CE9C2
+    AccurateRip v2 signature : 2DA4B6EE
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /Volumes/Bookshelves/[241023] ずっと真夜中でいいのに。 - 虚仮の一念海馬に託す [初回限定盤]/Disc 1 - CD/12 Blues in the Closet (Instrumental).flac
+
+    Track gain               : -8.57 dB
+    Peak                     : 0.986206
+    CRC32 hash (test run)    : 2730C07B
+    CRC32 hash               : 2730C07B
+    CRC32 hash (skip zero)   : F3DB5B9A
+    AccurateRip v1 signature : D055FB9A
+    AccurateRip v2 signature : 012EA818
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+AE2hAyRrbcrZGc76gT5wYCqjVFDzHnOaAB8LXMG9G0TCOTHsQI9lQVBO6Na67iah4RYdOn8hIYFh5JaWB1SlWnPWxxs5EmMNndIcni4
+-----END XLD SIGNATURE-----
